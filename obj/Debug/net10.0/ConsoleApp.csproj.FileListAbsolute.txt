@@ -1,0 +1,14 @@
+/Users/apple/Desktop/test1/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/Users/apple/Desktop/test1/consoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/Users/apple/Desktop/test1/consoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/Users/apple/Desktop/test1/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/Users/apple/Desktop/test1/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/Users/apple/Desktop/test1/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/Users/apple/Desktop/test1/consoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/Users/apple/Desktop/test1/consoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
